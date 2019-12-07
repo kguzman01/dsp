@@ -568,3 +568,4 @@ $ ps -ef | grep <search_term>
 ```
 $ ps -ef | grep spotify
 ```
+READ
