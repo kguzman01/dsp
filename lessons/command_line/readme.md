@@ -23,3 +23,4 @@ With this lecture, students will learn the following standard commands:
 * echo
 * curl
  
+READ
